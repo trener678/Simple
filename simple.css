@@ -182,3 +182,46 @@ h1 {
     line-height: 170%;
     color: #85859B;
 }
+
+/*main pack*/
+
+.pack__inner {
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 0;
+}
+
+.pack__inner article {
+    width: 255px;
+    height: 465px;
+}
+
+.pack__img {
+    margin-bottom: 20px;
+}
+
+.pack__inner article h3 {
+    margin-bottom: 8px;
+    font-size: 30px;
+    font-weight: 400;
+    color: #666666;
+}
+
+.pack__small-text {
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #B5B5BD;
+}
+
+.pack__text {
+    margin-bottom: 20px;
+    line-height: 170%;
+    color: #85859B;
+}
+
+.pack__inner article button {
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    color: #7875FE;
+}
