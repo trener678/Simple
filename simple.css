@@ -225,3 +225,91 @@ h1 {
     font-size: 20px;
     color: #7875FE;
 }
+
+/*main pack*/
+
+.brands {
+    background-color: #EBEBEB;
+}
+
+.brands__inner {
+    padding: 90px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.brands__img {
+    border: 1px solid #C4C4C4;
+}
+
+/*main book*/
+
+.book__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.book__text {
+    width: 350px;
+    height: 272px;
+}
+
+.book__text h2 {
+    margin-top: 114px;
+    font-size: 40px;
+    font-weight: 400;
+    color: #666666;
+}
+
+.book__text p {
+    line-height: 170%;
+    color: #85859B;
+    margin-bottom: 53.5px;
+}
+
+.book__text a {
+    padding: 15.5px 80.5px;
+    border: 1px solid #7875FE;
+    font-size: 20px;
+    color: #7875FE;
+}
+
+.book__img {
+    margin-top: 90px;
+}
+
+/*footer*/
+
+.footer {
+    margin-bottom: 3px;
+    background-color: #4C5866;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__logo {
+    margin: 29px 0;
+}
+
+.icons {
+    margin: 28px 0;
+}
+
+.footer__img {
+    margin-left: 34px;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    color: #4C5866;
+}
+
+.name span {
+    color: #C4C4C4;
+    padding: 0 5px;
+}
